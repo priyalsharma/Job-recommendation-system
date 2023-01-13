@@ -1,0 +1,8 @@
+(clear)
+(watch compilations)
+(load global.clp)
+(load helper_functions.clp)
+(load main.clp)
+(load rules.clp)
+(reset)
+(run)
